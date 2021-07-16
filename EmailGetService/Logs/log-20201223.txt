@@ -1,0 +1,1431 @@
+2020-12-23 09:09:33.292 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 09:09:33.316 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 09:09:33.422 +05:00 [INF] Email verification procedure
+2020-12-23 09:09:40.485 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 09:09:40.534 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 09:09:44.638 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 09:09:44.973 +05:00 [INF] Disconnected
+2020-12-23 09:09:49.060 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 09:09:49.163 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 09:09:49.178 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 09:10:23.405 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 09:10:23.432 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 09:10:23.534 +05:00 [INF] Email verification procedure
+2020-12-23 09:10:32.581 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 09:10:32.630 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 09:10:35.504 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 09:10:35.585 +05:00 [INF] Disconnected
+2020-12-23 09:11:04.401 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 09:11:04.513 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 09:11:04.525 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 09:16:06.913 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 09:16:06.937 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 09:16:07.050 +05:00 [INF] Email verification procedure
+2020-12-23 09:16:23.574 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 09:16:23.613 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 09:16:35.581 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 09:16:37.109 +05:00 [INF] Disconnected
+2020-12-23 09:17:11.363 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 09:17:11.379 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 09:17:11.467 +05:00 [INF] Email verification procedure
+2020-12-23 09:17:33.095 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 09:17:33.134 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 09:17:34.193 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 09:17:34.278 +05:00 [INF] Disconnected
+2020-12-23 09:17:40.122 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 09:17:40.235 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 09:17:40.247 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 09:48:14.341 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 09:48:14.355 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 09:48:14.381 +05:00 [INF] Email verification procedure
+2020-12-23 09:48:19.841 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 09:48:19.877 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 09:48:22.031 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 09:48:22.323 +05:00 [INF] Disconnected
+2020-12-23 09:48:47.345 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 09:48:47.378 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 09:48:47.389 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 09:48:54.450 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 09:48:54.464 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 09:48:54.491 +05:00 [INF] Email verification procedure
+2020-12-23 09:48:59.256 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 09:48:59.294 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 09:49:01.654 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 09:49:01.892 +05:00 [INF] Disconnected
+2020-12-23 09:49:06.536 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 09:49:06.565 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 09:49:06.578 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 11:07:00.562 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 11:07:00.576 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 11:07:00.602 +05:00 [INF] Email verification procedure
+2020-12-23 11:07:02.991 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 11:07:03.023 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 11:07:08.378 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 11:07:08.442 +05:00 [INF] Disconnected
+2020-12-23 11:07:29.841 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 11:07:29.878 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 11:07:29.890 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 11:30:09.249 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 11:30:09.265 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 11:30:09.363 +05:00 [INF] Email verification procedure
+2020-12-23 11:30:13.417 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 11:30:13.458 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 11:30:16.156 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 11:30:16.220 +05:00 [INF] Disconnected
+2020-12-23 11:31:05.117 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 11:31:05.133 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 11:31:05.217 +05:00 [INF] Email verification procedure
+2020-12-23 11:50:19.291 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 11:50:19.304 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 11:50:19.331 +05:00 [INF] Email verification procedure
+2020-12-23 11:50:21.677 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 11:50:21.707 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 11:50:22.648 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 11:50:22.721 +05:00 [INF] Disconnected
+2020-12-23 11:50:50.633 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 11:50:50.669 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 11:50:50.680 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 11:51:02.125 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 11:51:02.141 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 11:51:02.234 +05:00 [INF] Email verification procedure
+2020-12-23 11:51:05.688 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 11:51:05.727 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 11:51:06.595 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 11:51:06.670 +05:00 [INF] Disconnected
+2020-12-23 11:51:20.035 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 11:51:20.139 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 11:51:20.151 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 12:00:48.252 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 12:00:48.270 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 12:00:48.358 +05:00 [INF] Email verification procedure
+2020-12-23 12:00:50.913 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 12:00:51.609 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 12:00:51.623 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 12:03:16.433 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 12:03:16.447 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 12:03:16.473 +05:00 [INF] Email verification procedure
+2020-12-23 12:03:19.119 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 12:03:19.156 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 12:03:20.250 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 12:03:20.330 +05:00 [INF] Disconnected
+2020-12-23 12:03:37.058 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 12:03:37.098 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 12:03:37.113 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 12:03:48.614 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 12:03:48.628 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 12:03:48.656 +05:00 [INF] Email verification procedure
+2020-12-23 12:03:51.070 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 12:03:51.107 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 12:03:52.056 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 12:03:52.121 +05:00 [INF] Disconnected
+2020-12-23 12:03:55.602 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 12:03:55.640 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 12:03:55.655 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 12:34:22.982 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 12:34:23.007 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 12:34:23.105 +05:00 [INF] Email verification procedure
+2020-12-23 12:34:27.101 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 12:34:27.140 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 12:34:28.654 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 12:34:28.729 +05:00 [INF] Disconnected
+2020-12-23 12:35:06.643 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 12:35:07.212 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 12:35:07.520 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 13:47:52.182 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:47:52.199 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:47:52.343 +05:00 [INF] Email verification procedure
+2020-12-23 13:47:57.665 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 13:47:57.767 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 13:48:00.669 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 13:48:01.736 +05:00 [INF] Disconnected
+2020-12-23 13:48:07.963 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 13:48:08.064 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 13:48:08.076 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 13:48:52.409 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:48:52.434 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:48:55.750 +05:00 [INF] Email verification procedure
+2020-12-23 13:49:03.213 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 13:49:03.259 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 13:49:04.998 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 13:49:05.126 +05:00 [INF] Disconnected
+2020-12-23 13:49:07.892 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 13:49:08.001 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 13:49:08.018 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 13:49:56.413 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:49:56.439 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:49:58.500 +05:00 [INF] Email verification procedure
+2020-12-23 13:50:54.385 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:50:54.411 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:50:54.613 +05:00 [INF] Email verification procedure
+2020-12-23 13:55:51.042 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:55:51.059 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:55:51.232 +05:00 [INF] Email verification procedure
+2020-12-23 13:56:13.331 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:56:13.347 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:56:13.542 +05:00 [INF] Email verification procedure
+2020-12-23 13:57:22.295 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:57:22.311 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:57:22.528 +05:00 [INF] Email verification procedure
+2020-12-23 13:58:24.061 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:58:24.086 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 13:58:33.436 +05:00 [INF] Email verification procedure
+2020-12-23 13:59:17.266 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 13:59:17.311 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:00:27.702 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:00:27.727 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:01:23.614 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:01:23.631 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:01:40.641 +05:00 [INF] Email verification procedure
+2020-12-23 14:01:45.678 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:01:45.716 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:01:47.815 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:01:47.955 +05:00 [INF] Disconnected
+2020-12-23 14:02:28.160 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:02:28.176 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:02:28.266 +05:00 [INF] Email verification procedure
+2020-12-23 14:02:34.097 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:02:34.138 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:02:37.437 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:02:37.830 +05:00 [INF] Disconnected
+2020-12-23 14:03:34.734 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:03:34.750 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:03:34.854 +05:00 [INF] Email verification procedure
+2020-12-23 14:03:39.655 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:03:39.692 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:03:41.434 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:03:41.664 +05:00 [INF] Disconnected
+2020-12-23 14:05:10.043 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:05:10.215 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:05:10.227 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 14:05:34.655 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:05:34.691 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:05:34.783 +05:00 [INF] Email verification procedure
+2020-12-23 14:05:42.181 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:05:42.221 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:05:46.294 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:05:46.451 +05:00 [INF] Disconnected
+2020-12-23 14:06:34.774 +05:00 [INF] Email verification procedure
+2020-12-23 14:06:36.789 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:06:36.864 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:06:38.336 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:06:38.468 +05:00 [INF] Disconnected
+2020-12-23 14:07:34.774 +05:00 [INF] Email verification procedure
+2020-12-23 14:07:36.774 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:07:36.789 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:07:39.085 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:07:39.210 +05:00 [INF] Disconnected
+2020-12-23 14:07:42.228 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:07:42.435 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:07:42.447 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 14:08:28.131 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:08:28.148 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:08:28.239 +05:00 [INF] Email verification procedure
+2020-12-23 14:08:33.119 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:08:33.158 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:08:34.645 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:08:34.829 +05:00 [INF] Disconnected
+2020-12-23 14:09:28.224 +05:00 [INF] Email verification procedure
+2020-12-23 14:09:30.865 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:09:30.947 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:09:36.126 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:09:36.384 +05:00 [INF] Disconnected
+2020-12-23 14:10:53.241 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:10:53.257 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:10:53.348 +05:00 [INF] Email verification procedure
+2020-12-23 14:11:00.485 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:11:00.523 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:12:36.962 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:12:36.979 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:12:37.076 +05:00 [INF] Email verification procedure
+2020-12-23 14:12:42.104 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:12:42.147 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:12:45.307 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:12:45.418 +05:00 [INF] Disconnected
+2020-12-23 14:13:00.691 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:13:00.796 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:13:00.824 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 14:21:38.815 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:21:38.865 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:21:38.975 +05:00 [INF] Email verification procedure
+2020-12-23 14:21:45.625 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:21:45.671 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:21:48.200 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:21:48.362 +05:00 [INF] Disconnected
+2020-12-23 14:22:02.433 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:22:02.536 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:22:02.552 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 14:24:14.862 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:24:14.879 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:24:14.980 +05:00 [INF] Email verification procedure
+2020-12-23 14:24:19.902 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:24:19.944 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:24:22.139 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:24:22.270 +05:00 [INF] Disconnected
+2020-12-23 14:25:24.192 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:25:24.209 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:25:24.297 +05:00 [INF] Email verification procedure
+2020-12-23 14:25:46.020 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:25:46.059 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:25:47.605 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:25:47.755 +05:00 [INF] Disconnected
+2020-12-23 14:25:53.036 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:25:53.135 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:25:53.147 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 14:30:23.376 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:30:23.402 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:30:23.562 +05:00 [INF] Email verification procedure
+2020-12-23 14:30:28.421 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:30:28.473 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:30:31.877 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:30:32.001 +05:00 [INF] Disconnected
+2020-12-23 14:31:23.476 +05:00 [INF] Email verification procedure
+2020-12-23 14:31:28.868 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:31:28.971 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:31:31.382 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:31:31.539 +05:00 [INF] Disconnected
+2020-12-23 14:32:23.474 +05:00 [INF] Email verification procedure
+2020-12-23 14:32:27.076 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:32:27.090 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:32:32.005 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:32:32.264 +05:00 [INF] Disconnected
+2020-12-23 14:32:53.460 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:32:53.475 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:32:57.643 +05:00 [INF] Email verification procedure
+2020-12-23 14:33:07.394 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:33:07.440 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:33:09.284 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:33:09.410 +05:00 [INF] Disconnected
+2020-12-23 14:34:19.192 +05:00 [INF] Email verification procedure
+2020-12-23 14:34:21.869 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:34:21.953 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:34:24.023 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:34:24.153 +05:00 [INF] Disconnected
+2020-12-23 14:34:49.671 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:34:49.692 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:35:18.981 +05:00 [INF] Email verification procedure
+2020-12-23 14:35:24.885 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:35:24.938 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:35:26.716 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:35:26.905 +05:00 [INF] Disconnected
+2020-12-23 14:36:05.319 +05:00 [INF] Email verification procedure
+2020-12-23 14:36:09.635 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:36:09.669 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:36:14.743 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:36:15.081 +05:00 [INF] Disconnected
+2020-12-23 14:36:17.651 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:36:17.835 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:36:17.853 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 14:39:18.644 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:39:18.661 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:44:20.068 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:44:20.094 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:44:20.274 +05:00 [INF] Email verification procedure
+2020-12-23 14:44:24.838 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:44:24.876 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:44:26.884 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:44:27.034 +05:00 [INF] Disconnected
+2020-12-23 14:45:07.222 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:45:07.240 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:45:07.403 +05:00 [INF] Email verification procedure
+2020-12-23 14:45:11.953 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:45:11.992 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:45:15.749 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:45:16.010 +05:00 [INF] Disconnected
+2020-12-23 14:46:07.372 +05:00 [INF] Email verification procedure
+2020-12-23 14:46:09.654 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:46:09.711 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:46:11.791 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:46:12.066 +05:00 [INF] Disconnected
+2020-12-23 14:47:07.381 +05:00 [INF] Email verification procedure
+2020-12-23 14:48:16.823 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:48:16.851 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:48:17.004 +05:00 [INF] Email verification procedure
+2020-12-23 14:48:21.553 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:48:21.599 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:48:23.142 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:48:23.284 +05:00 [INF] Disconnected
+2020-12-23 14:51:56.235 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:51:56.256 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:51:56.345 +05:00 [INF] Email verification procedure
+2020-12-23 14:53:13.893 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:53:13.917 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:53:13.998 +05:00 [INF] Email verification procedure
+2020-12-23 14:54:14.041 +05:00 [INF] Email verification procedure
+2020-12-23 14:54:21.184 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/receive-endpoint" "42060000-04ec-00ff-5c32-08d8a72800e3" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CreateMailBox>
+System.ArgumentNullException: Value cannot be null. (Parameter 'plaintext')
+   at Microsoft.AspNetCore.DataProtection.DataProtectionCommonExtensions.Protect(IDataProtector protector, String plaintext)
+   at EmailGetService.Services.EmailService.CreateMailBox(String imapServer, UInt16 port, String userName, String password) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 40
+   at EmailGetService.EventBus.Consumers.EmailReceiveConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\EmailReceiveConsumer.cs:line 23
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 14:54:59.758 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:54:59.774 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:54:59.872 +05:00 [INF] Email verification procedure
+2020-12-23 14:55:49.816 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/receive-endpoint" "42060000-04ec-00ff-5c32-08d8a72800e3" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CreateMailBox>
+System.ArgumentNullException: Value cannot be null. (Parameter 'plaintext')
+   at Microsoft.AspNetCore.DataProtection.DataProtectionCommonExtensions.Protect(IDataProtector protector, String plaintext)
+   at EmailGetService.Services.EmailService.CreateMailBox(String imapServer, UInt16 port, String userName, String password) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 40
+   at EmailGetService.EventBus.Consumers.EmailReceiveConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\EmailReceiveConsumer.cs:line 23
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 14:55:53.855 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/receive-endpoint" "42060000-04ec-00ff-5c32-08d8a72800e3" TTDoc.EventBus.Contracts.EmailReceiver.CreateMailBox EmailGetService.EventBus.Consumers.EmailReceiveConsumer("00:00:01.9148261")
+System.ArgumentNullException: Value cannot be null. (Parameter 'plaintext')
+   at Microsoft.AspNetCore.DataProtection.DataProtectionCommonExtensions.Protect(IDataProtector protector, String plaintext)
+   at EmailGetService.Services.EmailService.CreateMailBox(String imapServer, UInt16 port, String userName, String password) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 40
+   at EmailGetService.EventBus.Consumers.EmailReceiveConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\EmailReceiveConsumer.cs:line 23
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-23 14:55:57.542 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:55:57.592 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:55:59.821 +05:00 [INF] Email verification procedure
+2020-12-23 14:56:01.404 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:56:01.552 +05:00 [INF] Disconnected
+2020-12-23 14:56:04.347 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:56:04.377 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:56:08.541 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:56:08.857 +05:00 [INF] Disconnected
+2020-12-23 14:56:11.533 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 75
+2020-12-23 14:56:14.052 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 75
+2020-12-23 14:56:39.460 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:56:39.636 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:56:39.648 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 14:57:36.676 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 14:57:36.709 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 14:57:36.806 +05:00 [INF] Email verification procedure
+2020-12-23 14:57:47.694 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:57:47.732 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:57:52.859 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:57:53.572 +05:00 [INF] Disconnected
+2020-12-23 14:57:56.104 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 75
+2020-12-23 14:57:58.624 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 75
+2020-12-23 14:58:36.787 +05:00 [INF] Email verification procedure
+2020-12-23 14:58:42.332 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 14:58:42.348 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 14:58:46.013 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 14:58:46.262 +05:00 [INF] Disconnected
+2020-12-23 14:58:48.779 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 75
+2020-12-23 14:58:51.279 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 75
+2020-12-23 14:58:51.283 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 14:58:51.442 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 14:58:51.454 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 15:01:03.080 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:01:03.097 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:01:03.206 +05:00 [INF] Email verification procedure
+2020-12-23 15:01:59.531 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:01:59.547 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:01:59.654 +05:00 [INF] Email verification procedure
+2020-12-23 15:03:34.164 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:03:34.181 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:03:34.275 +05:00 [INF] Email verification procedure
+2020-12-23 15:04:59.728 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:04:59.757 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:04:59.850 +05:00 [INF] Email verification procedure
+2020-12-23 15:06:07.726 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:06:07.743 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:06:07.835 +05:00 [INF] Email verification procedure
+2020-12-23 15:09:40.668 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:09:40.693 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:09:40.791 +05:00 [INF] Email verification procedure
+2020-12-23 15:32:45.646 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:32:45.661 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:32:45.745 +05:00 [INF] Email verification procedure
+2020-12-23 15:34:29.981 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:34:29.997 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:34:30.081 +05:00 [INF] Email verification procedure
+2020-12-23 15:35:28.152 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:35:28.170 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:35:28.254 +05:00 [INF] Email verification procedure
+2020-12-23 15:36:20.725 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:36:20.771 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:36:24.891 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:36:25.219 +05:00 [INF] Disconnected
+2020-12-23 15:36:27.758 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:28.221 +05:00 [INF] Email verification procedure
+2020-12-23 15:36:30.367 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:32.991 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:33.470 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:36:33.487 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:36:36.122 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:36:36.333 +05:00 [INF] Disconnected
+2020-12-23 15:36:38.811 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:41.324 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:43.868 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:46.500 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:48.992 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:36:51.550 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:37:28.211 +05:00 [INF] Email verification procedure
+2020-12-23 15:37:31.839 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:37:31.860 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:37:35.617 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:37:35.752 +05:00 [INF] Disconnected
+2020-12-23 15:37:38.310 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:37:40.942 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:37:43.893 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:37:46.520 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:37:49.001 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:37:51.542 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:38:20.211 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:38:20.229 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:38:20.322 +05:00 [INF] Email verification procedure
+2020-12-23 15:38:25.167 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:38:25.205 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:38:28.540 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:38:28.803 +05:00 [INF] Disconnected
+2020-12-23 15:38:31.344 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:38:33.963 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:38:36.543 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:38:39.019 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:38:41.696 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:38:44.205 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:40:33.341 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:40:33.357 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:40:33.466 +05:00 [INF] Email verification procedure
+2020-12-23 15:40:49.141 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:40:49.200 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:40:51.128 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:40:51.310 +05:00 [INF] Disconnected
+2020-12-23 15:40:53.864 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:40:56.466 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:40:58.988 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:01.554 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:04.066 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:06.600 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:33.460 +05:00 [INF] Email verification procedure
+2020-12-23 15:41:35.559 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:41:35.571 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:41:38.231 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:41:38.415 +05:00 [INF] Disconnected
+2020-12-23 15:41:40.869 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:43.394 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:45.918 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:48.420 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:41:50.947 +05:00 [ERR] Этот хост неизвестен.
+System.Net.Sockets.SocketException (11001): Этот хост неизвестен.
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw(Exception source)
+   at System.Net.Dns.HostResolutionEndHelper(IAsyncResult asyncResult)
+   at System.Net.Dns.EndGetHostAddresses(IAsyncResult asyncResult)
+   at System.Net.Dns.<>c.<GetHostAddressesAsync>b__25_1(IAsyncResult asyncResult)
+   at System.Threading.Tasks.TaskFactory`1.FromAsyncCoreLogic(IAsyncResult iar, Func`2 endFunction, Action`1 endAction, Task`1 promise, Boolean requiresSynchronization)
+--- End of stack trace from previous location where exception was thrown ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectSocket(String host, Int32 port, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 96
+2020-12-23 15:42:28.628 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 15:42:28.799 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 15:42:28.827 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 15:49:41.725 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:49:41.750 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:49:41.846 +05:00 [INF] Email verification procedure
+2020-12-23 15:52:55.502 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:52:55.518 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:52:55.607 +05:00 [INF] Email verification procedure
+2020-12-23 15:53:56.549 +05:00 [INF] Email verification procedure
+2020-12-23 15:54:35.004 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:54:35.043 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:54:35.100 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:54:35.116 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:54:36.947 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:54:37.157 +05:00 [INF] Disconnected
+2020-12-23 15:54:37.325 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:54:37.467 +05:00 [INF] Disconnected
+2020-12-23 15:54:55.559 +05:00 [INF] Email verification procedure
+2020-12-23 15:54:58.511 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:54:58.548 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:55:01.492 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:55:01.688 +05:00 [INF] Disconnected
+2020-12-23 15:55:10.614 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 15:55:10.755 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 15:55:10.774 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 15:56:09.253 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 15:56:09.273 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 15:56:09.372 +05:00 [INF] Email verification procedure
+2020-12-23 15:56:28.299 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:56:28.343 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:56:31.139 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:56:31.291 +05:00 [INF] Disconnected
+2020-12-23 15:57:09.363 +05:00 [INF] Email verification procedure
+2020-12-23 15:57:12.657 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:57:12.720 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:57:17.866 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:57:17.990 +05:00 [INF] Disconnected
+2020-12-23 15:58:09.361 +05:00 [INF] Email verification procedure
+2020-12-23 15:58:12.318 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 15:58:12.333 +05:00 [INF] The last email recieved date is : 18.12.2020 15:26:33
+2020-12-23 15:58:16.924 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-23 15:58:17.219 +05:00 [INF] Disconnected
+2020-12-23 16:00:38.854 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:00:38.870 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:00:38.960 +05:00 [INF] Email verification procedure
+2020-12-23 16:02:57.513 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:02:57.531 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:02:57.619 +05:00 [INF] Email verification procedure
+2020-12-23 16:06:03.431 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:06:03.448 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:06:03.552 +05:00 [INF] Email verification procedure
+2020-12-23 16:06:22.835 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/update-endpoint" "42060000-04ec-00ff-ad9a-08d8a731f882" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.UpdateMailBox>
+Microsoft.EntityFrameworkCore.DbUpdateConcurrencyException: Database operation expected to affect 1 row(s) but actually affected 0 row(s). Data may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=527962 for information on understanding and handling optimistic concurrency exceptions.
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.UpdateMailBox(String userName, String password) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 59
+   at EmailGetService.EventBus.Consumers.EmailUpdateConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\EmailUpdateConsumer.cs:line 27
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 16:06:44.166 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 16:06:44.188 +05:00 [INF] The last email recieved date is : 23.12.2020 0:00:00
+2020-12-23 16:06:44.549 +05:00 [INF] Disconnected
+2020-12-23 16:06:48.750 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 16:06:48.862 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 16:06:48.889 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 16:06:53.436 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:06:53.454 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:06:53.538 +05:00 [INF] Email verification procedure
+2020-12-23 16:08:19.105 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:08:19.123 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:08:19.213 +05:00 [INF] Email verification procedure
+2020-12-23 16:09:19.167 +05:00 [INF] Email verification procedure
+2020-12-23 16:09:22.543 +05:00 [ERR] Программа на вашем хост-компьютере разорвала установленное подключение.
+System.IO.IOException: Программа на вашем хост-компьютере разорвала установленное подключение.
+ ---> System.Net.Sockets.SocketException (10053): Программа на вашем хост-компьютере разорвала установленное подключение.
+   at MailKit.Net.NetworkStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MailKit.Net.NetworkStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at MailKit.Net.Imap.ImapStream.ReadAheadAsync(Int32 atleast, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapStream.ReadTokenAsync(String specials, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapCommand.StepAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.IterateAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.RunAsync(ImapCommand ic, Boolean doAsync)
+   at MailKit.Net.Imap.ImapClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 100
+2020-12-23 16:09:34.468 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 16:09:34.689 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 16:09:34.707 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 16:10:14.967 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:10:14.984 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:10:15.083 +05:00 [INF] Email verification procedure
+2020-12-23 16:10:20.127 +05:00 [ERR] Программа на вашем хост-компьютере разорвала установленное подключение.
+System.IO.IOException: Программа на вашем хост-компьютере разорвала установленное подключение.
+ ---> System.Net.Sockets.SocketException (10053): Программа на вашем хост-компьютере разорвала установленное подключение.
+   at MailKit.Net.NetworkStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MailKit.Net.NetworkStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at MailKit.Net.Imap.ImapStream.ReadAheadAsync(Int32 atleast, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapStream.ReadTokenAsync(String specials, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapCommand.StepAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.IterateAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.RunAsync(ImapCommand ic, Boolean doAsync)
+   at MailKit.Net.Imap.ImapClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 100
+2020-12-23 16:12:43.927 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:12:43.952 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:12:44.043 +05:00 [INF] Email verification procedure
+2020-12-23 16:12:48.970 +05:00 [ERR] Программа на вашем хост-компьютере разорвала установленное подключение.
+System.IO.IOException: Программа на вашем хост-компьютере разорвала установленное подключение.
+ ---> System.Net.Sockets.SocketException (10053): Программа на вашем хост-компьютере разорвала установленное подключение.
+   at MailKit.Net.NetworkStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at MailKit.Net.NetworkStream.ReadAsync(Byte[] buffer, Int32 offset, Int32 count, CancellationToken cancellationToken)
+   at System.Net.Security.SslStream.<FillBufferAsync>g__InternalFillBufferAsync|215_0[TReadAdapter](TReadAdapter adap, ValueTask`1 task, Int32 min, Int32 initial)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TReadAdapter](TReadAdapter adapter, Memory`1 buffer)
+   at MailKit.Net.Imap.ImapStream.ReadAheadAsync(Int32 atleast, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapStream.ReadTokenAsync(String specials, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapCommand.StepAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.IterateAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.RunAsync(ImapCommand ic, Boolean doAsync)
+   at MailKit.Net.Imap.ImapClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 100
+2020-12-23 16:13:05.802 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 16:13:05.896 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 16:13:05.909 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 16:13:16.636 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:13:16.653 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:13:16.753 +05:00 [INF] Email verification procedure
+2020-12-23 16:14:28.862 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:14:28.890 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:14:29.014 +05:00 [INF] Email verification procedure
+2020-12-23 16:15:14.949 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 16:15:15.123 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 16:15:15.136 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 16:15:26.831 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 16:15:26.849 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 16:15:26.947 +05:00 [INF] Email verification procedure
+2020-12-23 16:15:31.976 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 16:15:31.996 +05:00 [INF] The last email recieved date is : 23.12.2020 0:00:00
+2020-12-23 16:15:32.522 +05:00 [INF] Disconnected
+2020-12-23 16:15:42.852 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-23 16:15:42.950 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-23 16:15:42.966 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-23 17:11:18.177 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 17:11:18.195 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 17:11:18.276 +05:00 [INF] Email verification procedure
+2020-12-23 17:12:33.925 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 17:12:33.943 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 17:12:34.024 +05:00 [INF] Email verification procedure
+2020-12-23 17:13:10.549 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 17:13:10.712 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-8b5a-08d8a73bc8bf" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+--- End of stack trace from previous location where exception was thrown ---
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 17:13:10.712 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-8f7a-08d8a73bcef1" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+--- End of stack trace from previous location where exception was thrown ---
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 17:13:10.739 +05:00 [INF] The last email recieved date is : 23.12.2020 0:00:00
+2020-12-23 17:13:48.300 +05:00 [INF] Email verification procedure
+2020-12-23 17:14:09.364 +05:00 [INF] Disconnected
+2020-12-23 17:14:33.394 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 17:14:33.419 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 17:14:33.497 +05:00 [INF] Email verification procedure
+2020-12-23 17:14:39.030 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-8b5a-08d8a73bc8bf" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at System.Lazy`1.CreateValue()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 17:14:39.030 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-2c92-08d8a73c4cc6" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at System.Lazy`1.CreateValue()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 17:14:39.030 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-8f7a-08d8a73bcef1" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at System.Lazy`1.ExecutionAndPublication(LazyHelper executionAndPublication, Boolean useDefaultConstructor)
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at System.Lazy`1.CreateValue()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 17:14:39.225 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 17:14:39.264 +05:00 [INF] The last email recieved date is : 23.12.2020 0:00:00
+2020-12-23 17:14:39.816 +05:00 [INF] Disconnected
+2020-12-23 17:14:46.592 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-8b5a-08d8a73bc8bf" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:02.9041603")
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-23 17:14:46.592 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-8f7a-08d8a73bcef1" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:03.2512866")
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.TeeFilter`1.<>c__DisplayClass5_0.<<Send>g__SendAsync|1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at GreenPipes.Filters.OutputPipeFilter`2.SendToOutput(IPipe`1 next, TOutput pipeContext)
+   at GreenPipes.Filters.OutputPipeFilter`2.SendToOutput(IPipe`1 next, TOutput pipeContext)
+   at MassTransit.Pipeline.Filters.DeserializeFilter.Send(ReceiveContext context, IPipe`1 next)
+   at GreenPipes.Filters.RescueFilter`2.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 17:14:46.592 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-2c92-08d8a73c4cc6" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:03.4798385")
+System.ArgumentException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type 'T'.
+ ---> System.TypeLoadException: GenericArguments[0], 'System.Boolean', on 'MassTransit.Context.Converters.ResponseEndpointConverter`1[T]' violates the constraint of type parameter 'T'.
+   at System.RuntimeTypeHandle.Instantiate(Type[] inst)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   --- End of inner exception stack trace ---
+   at System.RuntimeType.ValidateGenericArguments(MemberInfo definition, RuntimeType[] genericArguments, Exception e)
+   at System.RuntimeType.MakeGenericType(Type[] instantiation)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.CreateConverter(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.<>c__DisplayClass5_0.<CreateTypeConverter>b__0()
+   at System.Lazy`1.ViaFactory(LazyThreadSafetyMode mode)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at System.Lazy`1.CreateValue()
+   at System.Lazy`1.get_Value()
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.get_Item(Type type)
+   at MassTransit.Context.Converters.ResponseEndpointConverterCache.Respond(ConsumeContext consumeContext, Object message, Type messageType)
+   at MassTransit.Context.BaseConsumeContext.RespondAsync(Object message)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.TeeFilter`1.<>c__DisplayClass5_0.<<Send>g__SendAsync|1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at GreenPipes.Filters.OutputPipeFilter`2.SendToOutput(IPipe`1 next, TOutput pipeContext)
+   at GreenPipes.Filters.OutputPipeFilter`2.SendToOutput(IPipe`1 next, TOutput pipeContext)
+   at MassTransit.Pipeline.Filters.DeserializeFilter.Send(ReceiveContext context, IPipe`1 next)
+   at GreenPipes.Filters.RescueFilter`2.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+   at GreenPipes.Filters.TeeFilter`1.<>c__DisplayClass5_0.<<Send>g__SendAsync|1>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at GreenPipes.Filters.OutputPipeFilter`2.SendToOutput(IPipe`1 next, TOutput pipeContext)
+   at GreenPipes.Filters.OutputPipeFilter`2.SendToOutput(IPipe`1 next, TOutput pipeContext)
+   at MassTransit.Pipeline.Filters.DeserializeFilter.Send(ReceiveContext context, IPipe`1 next)
+   at GreenPipes.Filters.RescueFilter`2.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-23 17:15:38.353 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-23 17:15:38.377 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-23 17:15:38.466 +05:00 [INF] Email verification procedure
+2020-12-23 17:15:43.486 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-23 17:15:43.508 +05:00 [INF] The last email recieved date is : 23.12.2020 0:00:00
+2020-12-23 17:15:43.833 +05:00 [INF] Disconnected

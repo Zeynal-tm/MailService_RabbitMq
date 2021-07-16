@@ -1,0 +1,1024 @@
+2020-12-24 09:45:58.175 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 09:45:58.199 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 09:45:58.290 +05:00 [INF] Email verification procedure
+2020-12-24 09:46:59.273 +05:00 [INF] Email verification procedure
+2020-12-24 09:47:56.546 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 09:47:56.566 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 09:47:56.649 +05:00 [INF] Email verification procedure
+2020-12-24 09:47:57.971 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-0c11-08d8a7c7135e" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.SendTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Observers.TopologySendPipeSpecificationObserver.MassTransit.SendPipeSpecifications.ISendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.SendPipeSpecifications.ParentSendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.Pipeline.Pipes.SendPipe.<MassTransit.Pipeline.ISendContextPipe.Send>b__4_0[T](Type x)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.Pipeline.Pipes.SendPipe.MassTransit.Pipeline.ISendContextPipe.Send[T](SendContext`1 context)
+   at MassTransit.Transports.SendEndpoint.SendEndpointPipe`1.Send(SendContext`1 context)
+   at MassTransit.RabbitMqTransport.Transport.RabbitMqSendTransport.SendPipe`1.Send(ModelContext modelContext)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at MassTransit.Context.BaseConsumeContext.<>c__DisplayClass59_0`1.<<RespondInternal>g__RespondAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 34
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:48:00.025 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-0c11-08d8a7c7135e" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:00.3267460")
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.SendTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Observers.TopologySendPipeSpecificationObserver.MassTransit.SendPipeSpecifications.ISendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.SendPipeSpecifications.ParentSendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.Pipeline.Pipes.SendPipe.<MassTransit.Pipeline.ISendContextPipe.Send>b__4_0[T](Type x)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.Pipeline.Pipes.SendPipe.MassTransit.Pipeline.ISendContextPipe.Send[T](SendContext`1 context)
+   at MassTransit.Transports.SendEndpoint.SendEndpointPipe`1.Send(SendContext`1 context)
+   at MassTransit.RabbitMqTransport.Transport.RabbitMqSendTransport.SendPipe`1.Send(ModelContext modelContext)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 34
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 09:48:01.816 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-269c-08d8a7c6c57f" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.PublishTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Topologies.PublishTopology.MassTransit.Topology.IPublishTopology.GetMessageTopology[T]()
+   at MassTransit.Transports.PublishEndpointProvider.CreateSendEndpoint[T]()
+   at MassTransit.Transports.PublishEndpointProvider.<GetPublishSendEndpoint>b__9_0[T](Type type)
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpointFromFactory(TKey address, SendEndpointFactory`1 factory)
+   at GreenPipes.Caching.Internals.PendingValue`2.CreateValue()
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpoint(TKey key, SendEndpointFactory`1 factory)
+   at MassTransit.ConsumeContextExtensions.<>c__DisplayClass5_0`1.<<GetEndpoint>g__GetPublishSendEndpointAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at MassTransit.Context.BaseConsumeContext.<>c__DisplayClass59_0`1.<<RespondInternal>g__RespondAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:48:02.357 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-e6df-08d8a7c71332" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.PublishTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Topologies.PublishTopology.MassTransit.Topology.IPublishTopology.GetMessageTopology[T]()
+   at MassTransit.Transports.PublishEndpointProvider.CreateSendEndpoint[T]()
+   at MassTransit.Transports.PublishEndpointProvider.<GetPublishSendEndpoint>b__9_0[T](Type type)
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpointFromFactory(TKey address, SendEndpointFactory`1 factory)
+   at GreenPipes.Caching.Internals.PendingValue`2.CreateValue()
+   at GreenPipes.Caching.Internals.NodeValueFactory`1.CreateValue()
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpoint(TKey key, SendEndpointFactory`1 factory)
+   at GreenPipes.Caching.Internals.NodeTracker`1.AddNode(INodeValueFactory`1 nodeValueFactory)
+   at MassTransit.ConsumeContextExtensions.<>c__DisplayClass5_0`1.<<GetEndpoint>g__GetPublishSendEndpointAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at MassTransit.Context.BaseConsumeContext.<>c__DisplayClass59_0`1.<<RespondInternal>g__RespondAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:48:03.929 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 09:48:03.951 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 09:48:04.595 +05:00 [INF] Disconnected
+2020-12-24 09:48:09.044 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-269c-08d8a7c6c57f" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:03.2264992")
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at GreenPipes.Caching.Internals.NodeValueFactory`1.CreateValue()
+   at GreenPipes.Caching.Internals.NodeTracker`1.AddNode(INodeValueFactory`1 nodeValueFactory)
+2020-12-24 09:48:09.843 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-e6df-08d8a7c71332" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:03.6143854")
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at GreenPipes.Caching.Internals.NodeValueFactory`1.CreateValue()
+   at GreenPipes.Caching.Internals.NodeTracker`1.AddNode(INodeValueFactory`1 nodeValueFactory)
+2020-12-24 09:48:28.789 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-f6de-08d8a7c727da" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.SendTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Observers.TopologySendPipeSpecificationObserver.MassTransit.SendPipeSpecifications.ISendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.SendPipeSpecifications.ParentSendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.Pipeline.Pipes.SendPipe.<MassTransit.Pipeline.ISendContextPipe.Send>b__4_0[T](Type x)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.Pipeline.Pipes.SendPipe.MassTransit.Pipeline.ISendContextPipe.Send[T](SendContext`1 context)
+   at MassTransit.Transports.SendEndpoint.SendEndpointPipe`1.Send(SendContext`1 context)
+   at MassTransit.RabbitMqTransport.Transport.RabbitMqSendTransport.SendPipe`1.Send(ModelContext modelContext)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at MassTransit.Context.BaseConsumeContext.<>c__DisplayClass59_0`1.<<RespondInternal>g__RespondAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 34
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:48:29.736 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-f6de-08d8a7c727da" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:00.3134679")
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.SendTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Observers.TopologySendPipeSpecificationObserver.MassTransit.SendPipeSpecifications.ISendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.SendPipeSpecifications.ParentSendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.Pipeline.Pipes.SendPipe.<MassTransit.Pipeline.ISendContextPipe.Send>b__4_0[T](Type x)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.Pipeline.Pipes.SendPipe.MassTransit.Pipeline.ISendContextPipe.Send[T](SendContext`1 context)
+   at MassTransit.Transports.SendEndpoint.SendEndpointPipe`1.Send(SendContext`1 context)
+   at MassTransit.RabbitMqTransport.Transport.RabbitMqSendTransport.SendPipe`1.Send(ModelContext modelContext)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 34
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 09:48:30.901 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-a306-08d8a7c727b0" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.PublishTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Topologies.PublishTopology.MassTransit.Topology.IPublishTopology.GetMessageTopology[T]()
+   at MassTransit.Transports.PublishEndpointProvider.CreateSendEndpoint[T]()
+   at MassTransit.Transports.PublishEndpointProvider.<GetPublishSendEndpoint>b__9_0[T](Type type)
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpointFromFactory(TKey address, SendEndpointFactory`1 factory)
+   at GreenPipes.Caching.Internals.PendingValue`2.CreateValue()
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpoint(TKey key, SendEndpointFactory`1 factory)
+   at MassTransit.ConsumeContextExtensions.<>c__DisplayClass5_0`1.<<GetEndpoint>g__GetPublishSendEndpointAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at MassTransit.Context.BaseConsumeContext.<>c__DisplayClass59_0`1.<<RespondInternal>g__RespondAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:48:36.325 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-a306-08d8a7c727b0" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:02.7942235")
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at GreenPipes.Caching.Internals.NodeValueFactory`1.CreateValue()
+   at GreenPipes.Caching.Internals.NodeTracker`1.AddNode(INodeValueFactory`1 nodeValueFactory)
+2020-12-24 09:48:56.636 +05:00 [INF] Email verification procedure
+2020-12-24 09:48:58.979 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 09:48:58.994 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 09:48:59.353 +05:00 [INF] Disconnected
+2020-12-24 09:49:09.386 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 09:49:09.519 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 09:49:09.530 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 09:50:47.846 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 09:50:47.880 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 09:50:47.975 +05:00 [INF] Email verification procedure
+2020-12-24 09:50:49.383 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-5ea3-08d8a7c775b6" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.SendTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Observers.TopologySendPipeSpecificationObserver.MassTransit.SendPipeSpecifications.ISendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.SendPipeSpecifications.ParentSendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.Pipeline.Pipes.SendPipe.<MassTransit.Pipeline.ISendContextPipe.Send>b__4_0[T](Type x)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.Pipeline.Pipes.SendPipe.MassTransit.Pipeline.ISendContextPipe.Send[T](SendContext`1 context)
+   at MassTransit.Transports.SendEndpoint.SendEndpointPipe`1.Send(SendContext`1 context)
+   at MassTransit.RabbitMqTransport.Transport.RabbitMqSendTransport.SendPipe`1.Send(ModelContext modelContext)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at MassTransit.Context.BaseConsumeContext.<>c__DisplayClass59_0`1.<<RespondInternal>g__RespondAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 34
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:50:51.301 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-5ea3-08d8a7c775b6" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:00.3418964")
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.SendTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Observers.TopologySendPipeSpecificationObserver.MassTransit.SendPipeSpecifications.ISendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.SendPipeSpecifications.ParentSendPipeSpecificationObserver.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.<>c__DisplayClass0_0`1.<MessageSpecificationCreated>b__0(ISendPipeSpecificationObserver observer)
+   at GreenPipes.Util.Connectable`1.All(Func`2 callback)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecificationObservable.MessageSpecificationCreated[T](IMessageSendPipeSpecification`1 specification)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.CreateMessageSpecification[T](Type type)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.SendPipeSpecifications.SendPipeSpecification.GetMessageSpecification[T]()
+   at MassTransit.Pipeline.Pipes.SendPipe.<MassTransit.Pipeline.ISendContextPipe.Send>b__4_0[T](Type x)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at MassTransit.Pipeline.Pipes.SendPipe.MassTransit.Pipeline.ISendContextPipe.Send[T](SendContext`1 context)
+   at MassTransit.Transports.SendEndpoint.SendEndpointPipe`1.Send(SendContext`1 context)
+   at MassTransit.RabbitMqTransport.Transport.RabbitMqSendTransport.SendPipe`1.Send(ModelContext modelContext)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at GreenPipes.Agents.PipeContextSupervisor`1.GreenPipes.IPipeContextSource<TContext>.Send(IPipe`1 pipe, CancellationToken cancellationToken)
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 34
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 09:51:48.214 +05:00 [INF] Email verification procedure
+2020-12-24 09:51:49.370 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-df79-08d8a7c7758b" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.ArgumentException: Messages types must not be System types: System.String (Parameter 'T')
+   at MassTransit.Topology.Topologies.PublishTopology.GetMessageTopology[T]()
+   at MassTransit.Topology.Topologies.PublishTopology.MassTransit.Topology.IPublishTopology.GetMessageTopology[T]()
+   at MassTransit.Transports.PublishEndpointProvider.CreateSendEndpoint[T]()
+   at MassTransit.Transports.PublishEndpointProvider.<GetPublishSendEndpoint>b__9_0[T](Type type)
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpointFromFactory(TKey address, SendEndpointFactory`1 factory)
+   at GreenPipes.Caching.Internals.PendingValue`2.CreateValue()
+   at MassTransit.Transports.SendEndpointCache`1.GetSendEndpoint(TKey key, SendEndpointFactory`1 factory)
+   at MassTransit.ConsumeContextExtensions.<>c__DisplayClass5_0`1.<<GetEndpoint>g__GetPublishSendEndpointAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at MassTransit.Context.BaseConsumeContext.<>c__DisplayClass59_0`1.<<RespondInternal>g__RespondAsync|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 30
+   at GreenPipes.Caching.Internals.NodeTracker`1.AddNode(INodeValueFactory`1 nodeValueFactory)
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:51:50.409 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 09:51:50.428 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 09:51:50.902 +05:00 [INF] Disconnected
+2020-12-24 09:58:27.986 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 09:58:28.014 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 09:58:28.096 +05:00 [INF] Email verification procedure
+2020-12-24 09:59:02.844 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-fae6-08d8a7c898bf" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:59:02.852 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 09:59:02.912 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 09:59:03.675 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-fae6-08d8a7c898bf" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:00.1760255")
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 09:59:04.045 +05:00 [INF] Disconnected
+2020-12-24 09:59:28.087 +05:00 [INF] Email verification procedure
+2020-12-24 09:59:30.058 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 09:59:30.080 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 09:59:30.289 +05:00 [INF] Disconnected
+2020-12-24 09:59:42.424 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 09:59:42.556 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 09:59:42.567 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 09:59:49.883 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 09:59:49.907 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 09:59:49.991 +05:00 [INF] Email verification procedure
+2020-12-24 09:59:54.305 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 09:59:54.327 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 09:59:54.803 +05:00 [INF] Disconnected
+2020-12-24 09:59:54.893 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-f9ce-08d8a7c8c0ef" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 09:59:56.003 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-f9ce-08d8a7c8c0ef" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:00.2008021")
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 10:00:11.412 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 10:00:11.625 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 10:00:11.636 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 10:00:17.991 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 10:00:18.011 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 10:00:18.088 +05:00 [INF] Email verification procedure
+2020-12-24 10:00:22.917 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:00:22.940 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:00:23.288 +05:00 [INF] Disconnected
+2020-12-24 10:00:36.120 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-3246-08d8a7c8d982" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 10:00:37.011 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-3246-08d8a7c8d982" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:00.2187224")
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 10:00:56.000 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-c5ac-08d8a7c8e553" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 10:00:56.670 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-c5ac-08d8a7c8e553" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:00.1422470")
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 10:01:18.092 +05:00 [INF] Email verification procedure
+2020-12-24 10:01:20.704 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:01:20.712 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:01:20.918 +05:00 [INF] Disconnected
+2020-12-24 10:02:33.608 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 10:02:33.655 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 10:02:33.743 +05:00 [INF] Email verification procedure
+2020-12-24 10:03:10.940 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:03:11.073 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:03:19.671 +05:00 [INF] Disconnected
+2020-12-24 10:03:33.730 +05:00 [INF] Email verification procedure
+2020-12-24 10:03:37.235 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:03:37.258 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:03:37.611 +05:00 [INF] Disconnected
+2020-12-24 10:04:42.287 +05:00 [INF] Email verification procedure
+2020-12-24 10:05:21.697 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:05:21.751 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:05:22.078 +05:00 [INF] Disconnected
+2020-12-24 10:05:22.276 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-eeb3-08d8a7c95f67" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication>
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 10:05:34.148 +05:00 [INF] Email verification procedure
+2020-12-24 10:05:49.883 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:05:50.020 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:05:51.161 +05:00 [INF] Disconnected
+2020-12-24 10:05:53.770 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/check-email" "42060000-04ec-00ff-eeb3-08d8a7c95f67" TTDoc.EventBus.Contracts.EmailReceiver.CheckEmailAuthentication EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer("00:00:04.5868435")
+System.InvalidOperationException: Connection was not successfully
+   at EmailGetService.EventBus.Consumers.CheckEmailAuthenticationConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\CheckEmailAuthenticationConsumer.cs:line 32
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 10:06:14.408 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 10:06:14.617 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 10:06:14.628 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 10:13:04.399 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 10:13:04.413 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 10:13:04.503 +05:00 [INF] Email verification procedure
+2020-12-24 10:13:11.487 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:13:11.510 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:13:11.856 +05:00 [INF] Disconnected
+2020-12-24 10:16:21.120 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 10:16:21.135 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 10:16:21.215 +05:00 [INF] Email verification procedure
+2020-12-24 10:16:26.187 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:16:26.211 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:16:26.676 +05:00 [INF] Disconnected
+2020-12-24 10:16:50.006 +05:00 [INF] Updated password of test_test20@list.ru mailbox
+2020-12-24 10:17:21.216 +05:00 [INF] Email verification procedure
+2020-12-24 10:17:24.715 +05:00 [ERR] The IMAP server has unexpectedly disconnected.
+MailKit.Net.Imap.ImapProtocolException: The IMAP server has unexpectedly disconnected.
+   at MailKit.Net.Imap.ImapStream.ReadAheadAsync(Int32 atleast, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapStream.ReadTokenAsync(String specials, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapCommand.StepAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.IterateAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.RunAsync(ImapCommand ic, Boolean doAsync)
+   at MailKit.Net.Imap.ImapClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync(MailBox mailBox) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 104
+2020-12-24 10:18:02.991 +05:00 [INF] Deleted test_test20@list.ru mailbox
+2020-12-24 10:18:21.209 +05:00 [INF] Email verification procedure
+2020-12-24 10:18:38.254 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 10:19:21.208 +05:00 [INF] Email verification procedure
+2020-12-24 10:19:29.327 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:19:29.369 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:19:29.708 +05:00 [INF] Disconnected
+2020-12-24 10:25:36.791 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 10:25:36.804 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 10:25:36.892 +05:00 [INF] Email verification procedure
+2020-12-24 10:25:41.244 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 10:25:41.264 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 10:25:41.616 +05:00 [INF] Disconnected
+2020-12-24 10:25:43.042 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 10:26:08.722 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 10:26:08.872 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 10:26:08.896 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 11:00:45.078 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 11:00:45.097 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 11:00:45.177 +05:00 [INF] Email verification procedure
+2020-12-24 11:00:49.718 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:00:49.752 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:00:50.421 +05:00 [INF] Disconnected
+2020-12-24 11:00:53.353 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:00:53.448 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:00:53.714 +05:00 [INF] Disconnected
+2020-12-24 11:01:22.732 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 11:01:44.337 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 11:01:44.448 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 11:01:44.459 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 11:08:48.931 +05:00 [ERR] Failed executing DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Emails" (
+    "Id" integer NOT NULL GENERATED BY DEFAULT AS IDENTITY,
+    "MessageId" text NULL,
+    "Sender" text NULL,
+    "Subject" text NULL,
+    "Message" text NULL,
+    "RecievedDate" timestamp with time zone NOT NULL,
+    "IsRead" boolean NOT NULL,
+    CONSTRAINT "PK_Emails" PRIMARY KEY ("Id")
+);
+2020-12-24 11:08:59.203 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 11:08:59.218 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 11:08:59.303 +05:00 [INF] Email verification procedure
+2020-12-24 11:09:03.884 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:09:03.902 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:09:05.036 +05:00 [INF] Disconnected
+2020-12-24 11:09:07.399 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:09:07.786 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:09:08.113 +05:00 [INF] Disconnected
+2020-12-24 11:09:09.204 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 11:09:10.293 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:09:10.312 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:09:10.525 +05:00 [INF] Disconnected
+2020-12-24 11:09:47.649 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 11:09:47.815 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 11:09:47.834 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 11:11:30.574 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 11:11:30.588 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 11:11:30.680 +05:00 [INF] Email verification procedure
+2020-12-24 11:11:35.220 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:11:35.242 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:11:35.571 +05:00 [INF] Disconnected
+2020-12-24 11:11:38.119 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:11:38.125 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:11:38.378 +05:00 [INF] Disconnected
+2020-12-24 11:11:40.808 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:11:40.814 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:11:41.037 +05:00 [INF] Disconnected
+2020-12-24 11:11:43.337 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:11:43.356 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:11:43.567 +05:00 [INF] Disconnected
+2020-12-24 11:11:56.108 +05:00 [INF] Deleted test_test20@list.ru mailbox
+2020-12-24 11:12:13.431 +05:00 [INF] Deleted test_test20@list.ru mailbox
+2020-12-24 11:12:24.255 +05:00 [INF] Deleted test_test20@list.ru mailbox
+2020-12-24 11:12:30.663 +05:00 [INF] Email verification procedure
+2020-12-24 11:12:34.969 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:12:34.989 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:12:35.285 +05:00 [INF] Disconnected
+2020-12-24 11:12:38.624 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 11:12:38.756 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 11:12:38.772 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 11:25:09.614 +05:00 [ERR] Failed executing DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Emails" (
+    "Id" integer NOT NULL GENERATED BY DEFAULT AS IDENTITY,
+    "MessageId" text NULL,
+    "Sender" text NULL,
+    "Subject" text NULL,
+    "Message" text NULL,
+    "RecievedDate" timestamp with time zone NOT NULL,
+    "IsRead" boolean NOT NULL,
+    CONSTRAINT "PK_Emails" PRIMARY KEY ("Id")
+);
+2020-12-24 11:25:28.766 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 11:25:28.781 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 11:25:28.870 +05:00 [INF] Email verification procedure
+2020-12-24 11:25:34.519 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:25:34.537 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:25:35.644 +05:00 [INF] Disconnected
+2020-12-24 11:25:38.896 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 11:25:51.849 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 11:25:51.958 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 11:25:51.972 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 11:35:07.478 +05:00 [ERR] Failed executing DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+ALTER TABLE "Emails" RENAME COLUMN "IsRead" TO "Synchronized";
+2020-12-24 11:42:35.799 +05:00 [ERR] Failed executing DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "MailBoxes" (
+    "Id" integer NOT NULL GENERATED BY DEFAULT AS IDENTITY,
+    "ImapServer" text NULL,
+    "ImapPort" integer NOT NULL,
+    "UserName" text NULL,
+    "Password" text NULL,
+    "IsActive" boolean NOT NULL,
+    CONSTRAINT "PK_MailBoxes" PRIMARY KEY ("Id")
+);
+2020-12-24 11:42:58.323 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 11:42:58.364 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 11:42:58.456 +05:00 [INF] Email verification procedure
+2020-12-24 11:43:08.161 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:43:08.186 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:43:09.715 +05:00 [INF] Disconnected
+2020-12-24 11:43:13.770 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 11:43:13.793 +05:00 [INF] The last email recieved date is : 24.12.2020 0:00:00
+2020-12-24 11:43:14.881 +05:00 [INF] Disconnected
+2020-12-24 11:43:23.333 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 11:43:38.225 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 11:43:38.327 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 11:43:38.338 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 12:02:31.028 +05:00 [ERR] Failed executing DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "MailBoxes" (
+    "Id" integer NOT NULL GENERATED BY DEFAULT AS IDENTITY,
+    "ImapServer" text NULL,
+    "ImapPort" integer NOT NULL,
+    "UserName" text NULL,
+    "Password" text NULL,
+    "IsActive" boolean NOT NULL,
+    CONSTRAINT "PK_MailBoxes" PRIMARY KEY ("Id")
+);
+2020-12-24 12:04:01.850 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 12:04:01.863 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 12:04:01.940 +05:00 [INF] Email verification procedure
+2020-12-24 12:05:00.835 +05:00 [ERR] Failed executing DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "MailBoxes" (
+    "Id" integer NOT NULL GENERATED BY DEFAULT AS IDENTITY,
+    "ImapServer" text NULL,
+    "ImapPort" integer NOT NULL,
+    "UserName" text NULL,
+    "Password" text NULL,
+    "IsActive" boolean NOT NULL,
+    CONSTRAINT "PK_MailBoxes" PRIMARY KEY ("Id")
+);
+2020-12-24 12:07:10.163 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 12:07:10.182 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 12:07:10.257 +05:00 [INF] Email verification procedure
+2020-12-24 12:08:22.195 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 12:08:22.209 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 12:08:22.287 +05:00 [INF] Email verification procedure
+2020-12-24 12:08:38.824 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 12:08:38.928 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 12:08:38.939 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 12:09:38.537 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 12:09:38.551 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 12:09:38.641 +05:00 [INF] Email verification procedure
+2020-12-24 12:10:52.586 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 12:10:52.601 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 12:10:52.693 +05:00 [INF] Email verification procedure
+2020-12-24 12:10:59.196 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 12:11:10.769 +05:00 [ERR] Failed executing DbCommand (288ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Boolean), @p3='?', @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "MailBoxes" ("ImapPort", "ImapServer", "IsActive", "Password", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4)
+RETURNING "Id";
+2020-12-24 12:11:11.304 +05:00 [ERR] An exception occurred in the database while saving changes for context type 'EmailGetService.Database.EmailDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2020-12-24 12:11:11.742 +05:00 [WRN] R-RETRY "rabbitmq://192.168.4.188/receive-endpoint" "42060000-04ec-00ff-c7e7-08d8a7db1736" MassTransit.Context.RetryConsumeContext<TTDoc.EventBus.Contracts.EmailReceiver.MailBoxCreated>
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.CreateMailBox(String imapServer, Int32 port, String userName, String password) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 48
+   at EmailGetService.EventBus.Consumers.EmailReceiveConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\EmailReceiveConsumer.cs:line 27
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.GreenPipes.IFilter<TContext>.Send(TContext context, IPipe`1 next)
+2020-12-24 12:11:12.321 +05:00 [ERR] Failed executing DbCommand (415ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Boolean), @p3='?', @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "MailBoxes" ("ImapPort", "ImapServer", "IsActive", "Password", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4)
+RETURNING "Id";
+2020-12-24 12:11:12.884 +05:00 [ERR] An exception occurred in the database while saving changes for context type 'EmailGetService.Database.EmailDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2020-12-24 12:11:14.270 +05:00 [ERR] Failed executing DbCommand (618ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?', @p2='?' (DbType = Boolean), @p3='?', @p4='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "MailBoxes" ("ImapPort", "ImapServer", "IsActive", "Password", "UserName")
+VALUES (@p0, @p1, @p2, @p3, @p4)
+RETURNING "Id";
+2020-12-24 12:11:14.884 +05:00 [ERR] An exception occurred in the database while saving changes for context type 'EmailGetService.Database.EmailDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2020-12-24 12:11:15.600 +05:00 [ERR] R-FAULT "rabbitmq://192.168.4.188/receive-endpoint" "42060000-04ec-00ff-c7e7-08d8a7db1736" TTDoc.EventBus.Contracts.EmailReceiver.MailBoxCreated EmailGetService.EventBus.Consumers.EmailReceiveConsumer("00:00:01.6967378")
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "IX_MailBoxes_UserName"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: MailBoxes
+    ConstraintName: IX_MailBoxes_UserName
+    File: nbtinsert.c
+    Line: 534
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.CreateMailBox(String imapServer, Int32 port, String userName, String password) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 48
+   at EmailGetService.EventBus.Consumers.EmailReceiveConsumer.Consume(ConsumeContext`1 context) in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\EventBus\Consumers\EmailReceiveConsumer.cs:line 27
+   at MassTransit.Scoping.ScopeConsumerFactory`1.Send[TMessage](ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at MassTransit.Pipeline.Filters.ConsumerMessageFilter`2.GreenPipes.IFilter<MassTransit.ConsumeContext<TMessage>>.Send(ConsumeContext`1 context, IPipe`1 next)
+   at GreenPipes.Filters.RetryFilter`1.Attempt(TContext context, RetryContext`1 retryContext, IPipe`1 next)
+2020-12-24 12:11:45.013 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 12:11:45.230 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 12:11:45.248 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 14:29:02.659 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 14:29:02.688 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 14:29:02.777 +05:00 [INF] Email verification procedure
+2020-12-24 14:29:13.739 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 14:29:14.741 +05:00 [INF] Disconnected
+2020-12-24 14:30:02.770 +05:00 [INF] Email verification procedure
+2020-12-24 14:30:05.062 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 14:30:05.456 +05:00 [INF] Disconnected
+2020-12-24 14:48:01.450 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 14:48:01.464 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 14:48:01.566 +05:00 [INF] Email verification procedure
+2020-12-24 14:48:06.444 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 14:48:06.893 +05:00 [INF] Disconnected
+2020-12-24 14:48:34.938 +05:00 [INF] Deleted test_test20@list.ru mailbox
+2020-12-24 14:48:56.366 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 14:49:01.512 +05:00 [INF] Email verification procedure
+2020-12-24 14:50:01.507 +05:00 [INF] Email verification procedure
+2020-12-24 14:50:16.216 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 14:50:16.368 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 14:50:16.380 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 14:50:20.650 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 14:50:20.672 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 14:50:20.746 +05:00 [INF] Email verification procedure
+2020-12-24 14:51:20.741 +05:00 [INF] Email verification procedure
+2020-12-24 14:51:52.659 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 14:51:52.685 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 14:51:52.775 +05:00 [INF] Email verification procedure
+2020-12-24 14:52:43.732 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 14:52:43.754 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 14:52:43.856 +05:00 [INF] Email verification procedure
+2020-12-24 14:52:45.436 +05:00 [INF] Deleted test_test20@list.ru mailbox
+2020-12-24 14:52:47.498 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 14:52:47.597 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 14:52:47.608 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 14:53:47.899 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 14:53:47.922 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 14:53:48.021 +05:00 [INF] Email verification procedure
+2020-12-24 14:53:57.534 +05:00 [INF] Created new test_test20@list.ru mailbox
+2020-12-24 14:54:48.003 +05:00 [INF] Email verification procedure
+2020-12-24 14:54:50.481 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 14:54:50.741 +05:00 [INF] Disconnected
+2020-12-24 15:23:38.355 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 15:23:38.387 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 15:25:02.809 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 15:25:02.832 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 15:27:41.147 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 15:27:41.161 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 15:27:58.953 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 15:27:58.978 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 15:30:21.422 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 15:30:21.445 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 15:30:31.578 +05:00 [INF] Email verification procedure
+2020-12-24 15:30:36.736 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 15:30:37.160 +05:00 [INF] Disconnected
+2020-12-24 15:30:41.081 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 15:30:41.172 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 15:30:41.186 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 15:39:17.151 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 15:39:17.173 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 15:39:17.272 +05:00 [INF] Email verification procedure
+2020-12-24 15:39:21.990 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 15:39:22.507 +05:00 [INF] Disconnected
+2020-12-24 15:40:41.540 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 15:40:41.554 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 15:40:41.635 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-24 15:40:41.651 +05:00 [INF] Email verification procedure
+2020-12-24 15:40:41.657 +05:00 [INF] Email verification procedure
+2020-12-24 15:40:46.813 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 15:40:47.076 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 15:40:47.339 +05:00 [INF] Disconnected
+2020-12-24 15:40:47.565 +05:00 [INF] Disconnected
+2020-12-24 15:40:49.997 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 15:40:49.999 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 15:40:50.085 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 15:40:50.096 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 17:10:08.127 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 17:10:08.142 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 17:10:08.210 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-24 17:10:08.218 +05:00 [INF] Email Sender verification procedure
+2020-12-24 17:10:08.218 +05:00 [INF] Email verification procedure
+2020-12-24 17:10:14.096 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:10:14.830 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:10:16.506 +05:00 [INF] Disconnected
+2020-12-24 17:10:16.735 +05:00 [INF] Disconnected
+2020-12-24 17:11:17.882 +05:00 [INF] Email verification procedure
+2020-12-24 17:12:08.295 +05:00 [INF] Email verification procedure
+2020-12-24 17:12:40.774 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 17:12:40.814 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 17:12:40.882 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-24 17:12:40.897 +05:00 [INF] Email Sender verification procedure
+2020-12-24 17:12:40.897 +05:00 [INF] Email verification procedure
+2020-12-24 17:12:48.174 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:12:48.248 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:12:48.806 +05:00 [INF] Disconnected
+2020-12-24 17:12:48.806 +05:00 [INF] Disconnected
+2020-12-24 17:13:12.436 +05:00 [INF] test_test20@list.ru connection is checked and was successful
+2020-12-24 17:13:40.887 +05:00 [INF] Email verification procedure
+2020-12-24 17:13:45.287 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:13:45.733 +05:00 [INF] Disconnected
+2020-12-24 17:14:42.813 +05:00 [INF] Email verification procedure
+2020-12-24 17:14:42.973 +05:00 [INF] test_test20@list.ru connection is checked and was successful
+2020-12-24 17:15:06.915 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:15:07.558 +05:00 [INF] Disconnected
+2020-12-24 17:15:21.233 +05:00 [INF] test_test20@list.ru connection is checked and was successful
+2020-12-24 17:16:47.301 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 17:16:47.334 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 17:16:47.402 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-24 17:16:47.418 +05:00 [INF] Email verification procedure
+2020-12-24 17:16:47.420 +05:00 [INF] Email Sender verification procedure
+2020-12-24 17:16:51.215 +05:00 [INF] test_test20@list.ru connection is checked and was successful
+2020-12-24 17:16:57.859 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:16:57.859 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:18:02.500 +05:00 [INF] Email verification procedure
+2020-12-24 17:18:03.120 +05:00 [INF] Disconnected
+2020-12-24 17:18:03.121 +05:00 [INF] Disconnected
+2020-12-24 17:18:05.404 +05:00 [INF] test_test20@list.ru connection is checked and was successful
+2020-12-24 17:18:10.382 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:18:12.358 +05:00 [INF] Disconnected
+2020-12-24 17:18:47.403 +05:00 [INF] Email verification procedure
+2020-12-24 17:18:49.616 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-24 17:18:49.852 +05:00 [INF] Disconnected
+2020-12-24 17:19:07.396 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 17:19:07.398 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-24 17:19:07.568 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-24 17:19:07.580 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-24 17:37:09.629 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 17:37:09.662 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 17:37:09.709 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-24 17:37:09.771 +05:00 [INF] Email Sender verification procedure
+2020-12-24 17:37:09.771 +05:00 [INF] Email verification procedure
+2020-12-24 17:37:59.644 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 17:37:59.658 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 17:37:59.749 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-24 17:37:59.753 +05:00 [INF] Email Sender verification procedure
+2020-12-24 17:37:59.764 +05:00 [INF] Email verification procedure
+2020-12-24 17:39:21.526 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-24 17:39:21.539 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-24 17:39:21.608 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-24 17:39:21.622 +05:00 [INF] Email Sender verification procedure
+2020-12-24 17:39:21.622 +05:00 [INF] Email verification procedure

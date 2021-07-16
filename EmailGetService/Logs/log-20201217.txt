@@ -1,0 +1,304 @@
+2020-12-17 12:09:18.658 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 12:09:19.262 +05:00 [INF] Email verification procedure
+2020-12-17 12:09:23.365 +05:00 [INF] Connection was successful at 17.12.2020 12:09:23
+2020-12-17 12:09:24.594 +05:00 [INF] The last email recieved date is : 16.12.2020 12:23:07
+2020-12-17 12:09:39.832 +05:00 [INF] Recieved 0 emails with 0 attachments at 17.12.2020 12:09:39
+2020-12-17 12:09:39.911 +05:00 [INF] Disconnected at 17.12.2020 12:09:39
+2020-12-17 12:13:44.832 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 12:13:45.380 +05:00 [INF] Email verification procedure
+2020-12-17 12:13:47.365 +05:00 [ERR] The IMAP server has unexpectedly disconnected.
+MailKit.Net.Imap.ImapProtocolException: The IMAP server has unexpectedly disconnected.
+   at MailKit.Net.Imap.ImapStream.ReadAheadAsync(Int32 atleast, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapStream.ReadTokenAsync(String specials, Boolean doAsync, CancellationToken cancellationToken)
+   at MailKit.Net.Imap.ImapCommand.StepAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.IterateAsync(Boolean doAsync)
+   at MailKit.Net.Imap.ImapEngine.RunAsync(ImapCommand ic, Boolean doAsync)
+   at MailKit.Net.Imap.ImapClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, Boolean doAsync, CancellationToken cancellationToken)
+   at EmailGetService.Services.EmailService.ConnectAsync() in C:\Users\tmtim\source\repos\NetijeMain\EmailGetService\Services\EmailService.cs:line 52
+2020-12-17 12:14:20.910 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 12:14:21.501 +05:00 [INF] Email verification procedure
+2020-12-17 12:14:22.954 +05:00 [INF] Connection was successful
+2020-12-17 12:14:24.789 +05:00 [INF] The last email recieved date is : 16.12.2020 12:23:07
+2020-12-17 12:14:26.949 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 12:14:27.016 +05:00 [INF] Disconnected
+2020-12-17 12:19:15.958 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 12:19:16.625 +05:00 [INF] Email verification procedure
+2020-12-17 12:19:18.075 +05:00 [INF] Connection was successful
+2020-12-17 12:19:20.069 +05:00 [INF] The last email recieved date is : 16.12.2020 12:23:07
+2020-12-17 12:19:22.975 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 12:19:23.067 +05:00 [INF] Disconnected
+2020-12-17 12:24:16.621 +05:00 [INF] Email verification procedure
+2020-12-17 12:24:17.757 +05:00 [INF] Connection was successful
+2020-12-17 12:24:17.868 +05:00 [INF] The last email recieved date is : 16.12.2020 12:23:07
+2020-12-17 12:24:21.879 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 2 attachments at : 17.12.2020 12:21:12 +05:00
+2020-12-17 12:24:21.909 +05:00 [INF] 1. core-attributes.png
+2020-12-17 12:24:21.911 +05:00 [INF] 2. DATABASES.docx
+2020-12-17 12:24:22.321 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 2 attachments at : 17.12.2020 12:21:29 +05:00
+2020-12-17 12:24:22.323 +05:00 [INF] 1. Компания.xlsx
+2020-12-17 12:24:22.325 +05:00 [INF] 2. Новый текстовый документ.txt
+2020-12-17 12:24:22.426 +05:00 [INF] Recieved 2 emails with 4 attachments
+2020-12-17 12:24:22.493 +05:00 [INF] Disconnected
+2020-12-17 12:29:16.618 +05:00 [INF] Email verification procedure
+2020-12-17 12:29:17.582 +05:00 [INF] Connection was successful
+2020-12-17 12:29:17.665 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 12:29:18.218 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 12:29:18.288 +05:00 [INF] Disconnected
+2020-12-17 12:34:16.640 +05:00 [INF] Email verification procedure
+2020-12-17 12:34:18.909 +05:00 [INF] Connection was successful
+2020-12-17 12:34:19.005 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 12:34:21.811 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 12:34:21.874 +05:00 [INF] Disconnected
+2020-12-17 12:42:19.076 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 12:42:19.716 +05:00 [INF] Email verification procedure
+2020-12-17 12:44:23.701 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 12:44:24.277 +05:00 [INF] Email verification procedure
+2020-12-17 12:44:32.314 +05:00 [INF] Connection was successful
+2020-12-17 12:44:33.498 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 12:44:34.355 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 12:44:34.435 +05:00 [INF] Disconnected
+2020-12-17 14:13:27.764 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 14:13:28.332 +05:00 [INF] Email verification procedure
+2020-12-17 14:13:32.589 +05:00 [INF] Connection was successful
+2020-12-17 14:13:33.759 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 14:13:36.675 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 14:13:36.752 +05:00 [INF] Disconnected
+2020-12-17 14:40:10.652 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 14:40:11.218 +05:00 [INF] Email verification procedure
+2020-12-17 14:40:12.709 +05:00 [INF] Connection was successful
+2020-12-17 14:40:14.573 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 14:40:15.185 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 14:40:15.258 +05:00 [INF] Disconnected
+2020-12-17 15:13:32.047 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:13:32.632 +05:00 [INF] Email verification procedure
+2020-12-17 15:13:34.210 +05:00 [INF] Connection was successful
+2020-12-17 15:13:36.075 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:14:01.982 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:14:02.574 +05:00 [INF] Email verification procedure
+2020-12-17 15:14:03.999 +05:00 [INF] Connection was successful
+2020-12-17 15:14:05.912 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:14:06.505 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 15:14:06.579 +05:00 [INF] Disconnected
+2020-12-17 15:21:54.369 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:21:54.896 +05:00 [INF] Email verification procedure
+2020-12-17 15:21:56.449 +05:00 [INF] Connection was successful
+2020-12-17 15:21:58.347 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:21:58.996 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 15:21:59.070 +05:00 [INF] Disconnected
+2020-12-17 15:27:24.112 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:27:24.809 +05:00 [INF] Email verification procedure
+2020-12-17 15:27:26.309 +05:00 [INF] Connection was successful
+2020-12-17 15:27:28.619 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:27:29.239 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 15:27:29.318 +05:00 [INF] Disconnected
+2020-12-17 15:27:31.662 +05:00 [ERR] Failed executing DbCommand (297ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT e."Id", e."IsRead", e."Message", e."MessageId", e."Receiver", e."RecievedDate", e."Sender", e."Subject", a."Id", a."AttachmentInBytes", a."EmailId", a."Name"
+FROM "Emails" AS e
+LEFT JOIN "Attachments" AS a ON e."Id" = a."EmailId"
+ORDER BY e."Id", a."Id"
+2020-12-17 15:27:31.897 +05:00 [ERR] An exception occurred while iterating over the results of a query for context type 'EmailGetService.Database.EmailDbContext'.
+Npgsql.PostgresException (0x80004005): 42703: column e.Receiver does not exist
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(DbContext _, Boolean result, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column e.Receiver does not exist
+    Position: 56
+    File: parse_relation.c
+    Line: 3294
+    Routine: errorMissingColumn
+Npgsql.PostgresException (0x80004005): 42703: column e.Receiver does not exist
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(DbContext _, Boolean result, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column e.Receiver does not exist
+    Position: 56
+    File: parse_relation.c
+    Line: 3294
+    Routine: errorMissingColumn
+2020-12-17 15:30:08.625 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:30:09.228 +05:00 [INF] Email verification procedure
+2020-12-17 15:30:10.670 +05:00 [INF] Connection was successful
+2020-12-17 15:30:12.532 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:30:14.328 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 15:30:14.425 +05:00 [INF] Disconnected
+2020-12-17 15:34:41.025 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:34:41.616 +05:00 [INF] Email verification procedure
+2020-12-17 15:34:44.976 +05:00 [INF] Connection was successful
+2020-12-17 15:34:46.098 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:34:47.319 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 15:34:50.997 +05:00 [INF] Disconnected
+2020-12-17 15:34:53.958 +05:00 [ERR] Failed executing DbCommand (350ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT e."Id", e."IsRead", e."Message", e."MessageId", e."Receiver", e."RecievedDate", e."Sender", e."Subject", a."Id", a."AttachmentInBytes", a."EmailId", a."Name"
+FROM "Emails" AS e
+LEFT JOIN "Attachments" AS a ON e."Id" = a."EmailId"
+ORDER BY e."Id", a."Id"
+2020-12-17 15:34:54.191 +05:00 [ERR] An exception occurred while iterating over the results of a query for context type 'EmailGetService.Database.EmailDbContext'.
+Npgsql.PostgresException (0x80004005): 42703: column e.Receiver does not exist
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(DbContext _, Boolean result, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column e.Receiver does not exist
+    Position: 56
+    File: parse_relation.c
+    Line: 3294
+    Routine: errorMissingColumn
+Npgsql.PostgresException (0x80004005): 42703: column e.Receiver does not exist
+   at Npgsql.NpgsqlConnector.<ReadMessage>g__ReadMessageLong|194_0(NpgsqlConnector connector, Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(CommandBehavior behavior, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(DbContext _, Boolean result, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ERROR
+    SqlState: 42703
+    MessageText: column e.Receiver does not exist
+    Position: 56
+    File: parse_relation.c
+    Line: 3294
+    Routine: errorMissingColumn
+2020-12-17 15:46:56.259 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:46:56.804 +05:00 [INF] Email verification procedure
+2020-12-17 15:47:58.769 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:47:59.313 +05:00 [INF] Email verification procedure
+2020-12-17 15:48:03.757 +05:00 [INF] Connection was successful
+2020-12-17 15:48:03.929 +05:00 [INF] The last email recieved date is : 17.12.2020 0:00:00
+2020-12-17 15:48:05.775 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 2 attachments at : 17.12.2020 12:21:12 +05:00
+2020-12-17 15:48:05.802 +05:00 [INF] 1. core-attributes.png
+2020-12-17 15:48:05.806 +05:00 [INF] 2. DATABASES.docx
+2020-12-17 15:48:06.052 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 2 attachments at : 17.12.2020 12:21:29 +05:00
+2020-12-17 15:48:06.054 +05:00 [INF] 1. Компания.xlsx
+2020-12-17 15:48:06.055 +05:00 [INF] 2. Новый текстовый документ.txt
+2020-12-17 15:48:06.251 +05:00 [INF] Recieved 2 emails with 4 attachments
+2020-12-17 15:48:06.315 +05:00 [INF] Disconnected
+2020-12-17 15:49:27.028 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:49:27.614 +05:00 [INF] Email verification procedure
+2020-12-17 15:49:29.138 +05:00 [INF] Connection was successful
+2020-12-17 15:49:31.047 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:49:31.586 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 15:49:31.658 +05:00 [INF] Disconnected
+2020-12-17 15:49:40.802 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-17 15:49:48.977 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:49:49.563 +05:00 [INF] Email verification procedure
+2020-12-17 15:50:25.950 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:50:26.520 +05:00 [INF] Email verification procedure
+2020-12-17 15:50:28.099 +05:00 [INF] Connection was successful
+2020-12-17 15:50:30.004 +05:00 [INF] The last email recieved date is : 17.12.2020 0:00:00
+2020-12-17 15:50:30.613 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 2 attachments at : 17.12.2020 12:21:12 +05:00
+2020-12-17 15:50:30.641 +05:00 [INF] 1. core-attributes.png
+2020-12-17 15:50:30.644 +05:00 [INF] 2. DATABASES.docx
+2020-12-17 15:50:30.886 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 2 attachments at : 17.12.2020 12:21:29 +05:00
+2020-12-17 15:50:30.889 +05:00 [INF] 1. Компания.xlsx
+2020-12-17 15:50:30.890 +05:00 [INF] 2. Новый текстовый документ.txt
+2020-12-17 15:50:31.107 +05:00 [INF] Recieved 2 emails with 4 attachments
+2020-12-17 15:50:31.184 +05:00 [INF] Disconnected
+2020-12-17 15:52:01.849 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 15:52:02.137 +05:00 [INF] Email verification procedure
+2020-12-17 15:52:07.730 +05:00 [INF] Connection was successful
+2020-12-17 15:52:08.827 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:52:25.827 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 15:52:25.899 +05:00 [INF] Disconnected
+2020-12-17 15:57:02.119 +05:00 [INF] Email verification procedure
+2020-12-17 15:57:06.894 +05:00 [INF] Connection was successful
+2020-12-17 15:57:06.969 +05:00 [INF] The last email recieved date is : 17.12.2020 12:21:29
+2020-12-17 15:57:08.250 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 17.12.2020 15:53:47 +05:00
+2020-12-17 15:57:08.288 +05:00 [INF] 1. POSTGRESQL.docx
+2020-12-17 15:57:08.487 +05:00 [INF] Recieved 1 emails with 1 attachments
+2020-12-17 15:57:08.546 +05:00 [INF] Disconnected
+2020-12-17 16:50:53.963 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 16:50:54.531 +05:00 [INF] Email verification procedure
+2020-12-17 16:50:56.057 +05:00 [INF] Connection was successful
+2020-12-17 16:50:57.930 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 16:50:58.824 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 16:50:58.886 +05:00 [INF] Disconnected
+2020-12-17 16:56:00.216 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 16:56:00.852 +05:00 [INF] Email verification procedure
+2020-12-17 16:56:02.411 +05:00 [INF] Connection was successful
+2020-12-17 16:56:04.227 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 16:56:05.154 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 16:56:05.219 +05:00 [INF] Disconnected
+2020-12-17 17:01:58.077 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:01:58.658 +05:00 [INF] Email verification procedure
+2020-12-17 17:02:04.333 +05:00 [INF] Connection was successful
+2020-12-17 17:02:05.423 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:02:06.983 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:02:07.053 +05:00 [INF] Disconnected
+2020-12-17 17:02:42.914 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:02:43.466 +05:00 [INF] Email verification procedure
+2020-12-17 17:02:45.019 +05:00 [INF] Connection was successful
+2020-12-17 17:02:46.864 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:02:47.686 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:02:47.761 +05:00 [INF] Disconnected
+2020-12-17 17:07:50.811 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:07:51.374 +05:00 [INF] Email verification procedure
+2020-12-17 17:07:52.844 +05:00 [INF] Connection was successful
+2020-12-17 17:07:54.658 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:07:55.575 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:07:55.649 +05:00 [INF] Disconnected
+2020-12-17 17:07:55.660 +05:00 [INF] Was Seen All Unread Emails
+2020-12-17 17:07:55.870 +05:00 [INF] Was Seen email by 1608189689.430301329@f400.i.mail.ru message id
+2020-12-17 17:13:52.354 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:13:52.923 +05:00 [INF] Email verification procedure
+2020-12-17 17:13:56.107 +05:00 [INF] Connection was successful
+2020-12-17 17:13:57.190 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:13:58.011 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:13:58.081 +05:00 [INF] Disconnected
+2020-12-17 17:13:58.126 +05:00 [INF] Was Seen All Unread Emails
+2020-12-17 17:16:38.316 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:16:38.882 +05:00 [INF] Email verification procedure
+2020-12-17 17:16:40.399 +05:00 [INF] Connection was successful
+2020-12-17 17:16:42.210 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:16:43.858 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:16:43.924 +05:00 [INF] Disconnected
+2020-12-17 17:34:41.260 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:34:41.790 +05:00 [INF] Email verification procedure
+2020-12-17 17:34:43.521 +05:00 [INF] Connection was successful
+2020-12-17 17:34:45.351 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:34:47.421 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:34:47.500 +05:00 [INF] Disconnected
+2020-12-17 17:34:47.776 +05:00 [INF] Was read email by message id: 1608189689.430301329@f400.i.mail.ru
+2020-12-17 17:35:48.041 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:35:48.594 +05:00 [INF] Email verification procedure
+2020-12-17 17:35:50.179 +05:00 [INF] Connection was successful
+2020-12-17 17:35:52.065 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:35:52.911 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:35:52.985 +05:00 [INF] Disconnected
+2020-12-17 17:54:50.297 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-17 17:54:50.901 +05:00 [INF] Email verification procedure
+2020-12-17 17:54:52.722 +05:00 [INF] Connection was successful
+2020-12-17 17:54:54.719 +05:00 [INF] The last email recieved date is : 17.12.2020 15:53:47
+2020-12-17 17:54:55.627 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-17 17:54:55.702 +05:00 [INF] Disconnected

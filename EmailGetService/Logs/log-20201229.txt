@@ -1,0 +1,426 @@
+2020-12-29 09:44:00.930 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 09:44:00.950 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 09:44:00.994 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 09:44:00.997 +05:00 [INF] Email Sender verification procedure
+2020-12-29 09:44:01.006 +05:00 [INF] Email verification procedure
+2020-12-29 09:44:05.649 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 09:44:05.690 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 09:44:06.627 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 28.12.2020 17:30:26 +05:00
+2020-12-29 09:44:06.649 +05:00 [INF] 1. core-attributes.png
+2020-12-29 09:44:06.972 +05:00 [INF] Recieved 1 emails with 1 attachments
+2020-12-29 09:44:07.106 +05:00 [INF] Disconnected
+2020-12-29 09:49:01.007 +05:00 [INF] Email Sender verification procedure
+2020-12-29 09:49:01.007 +05:00 [INF] Email verification procedure
+2020-12-29 09:49:03.002 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 09:49:03.060 +05:00 [INF] The last email recieved date is : 28.12.2020 17:30:26
+2020-12-29 09:49:04.178 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 09:49:04.261 +05:00 [INF] Disconnected
+2020-12-29 10:04:24.814 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:04:24.841 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:04:24.878 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:04:24.919 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:04:24.919 +05:00 [INF] Email verification procedure
+2020-12-29 10:04:30.332 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:04:30.379 +05:00 [INF] The last email recieved date is : 28.12.2020 17:30:26
+2020-12-29 10:04:33.959 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:04:34.069 +05:00 [INF] Disconnected
+2020-12-29 10:05:17.129 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:05:17.183 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:05:17.240 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:05:17.281 +05:00 [INF] Email verification procedure
+2020-12-29 10:05:17.281 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:05:20.918 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:05:20.964 +05:00 [INF] The last email recieved date is : 28.12.2020 17:30:26
+2020-12-29 10:05:22.338 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:05:22.424 +05:00 [INF] Disconnected
+2020-12-29 10:06:52.771 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:06:52.828 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:06:52.902 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:06:52.911 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:06:52.911 +05:00 [INF] Email verification procedure
+2020-12-29 10:06:56.748 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:06:56.751 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:06:56.861 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 10:06:56.874 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 10:07:31.281 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:07:31.323 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:07:31.394 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:07:31.403 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:07:31.404 +05:00 [INF] Email verification procedure
+2020-12-29 10:07:35.601 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:07:35.668 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:07:36.813 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 28.12.2020 17:30:26 +05:00
+2020-12-29 10:07:36.845 +05:00 [INF] 1. core-attributes.png
+2020-12-29 10:07:37.120 +05:00 [INF] Recieved 1 emails with 1 attachments
+2020-12-29 10:07:37.225 +05:00 [INF] Disconnected
+2020-12-29 10:08:46.535 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:08:46.538 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:08:46.679 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 10:08:46.692 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 10:11:20.887 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:11:20.905 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:11:20.977 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:11:20.987 +05:00 [INF] Email verification procedure
+2020-12-29 10:11:20.987 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:11:58.681 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:11:58.737 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:11:58.917 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:11:59.445 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:11:59.562 +05:00 [INF] Disconnected
+2020-12-29 10:12:54.901 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:13:33.717 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:13:33.720 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:13:33.862 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 10:13:33.876 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 10:13:39.053 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:13:39.081 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:13:39.143 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:13:39.147 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:13:39.152 +05:00 [INF] Email verification procedure
+2020-12-29 10:13:43.277 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:13:43.349 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:13:44.266 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:13:44.488 +05:00 [INF] Disconnected
+2020-12-29 10:14:47.899 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:14:52.925 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:14:52.928 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:14:53.046 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 10:14:53.060 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 10:16:21.480 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:16:21.506 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:16:21.571 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:16:21.574 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:16:21.580 +05:00 [INF] Email verification procedure
+2020-12-29 10:16:25.998 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:16:26.043 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:16:28.988 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:16:29.066 +05:00 [INF] Disconnected
+2020-12-29 10:17:00.842 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:18:02.696 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:18:02.718 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:18:02.759 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:18:02.800 +05:00 [INF] Email verification procedure
+2020-12-29 10:18:02.800 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:18:06.861 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:18:08.128 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:18:08.695 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:18:08.834 +05:00 [INF] Disconnected
+2020-12-29 10:18:22.868 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:23:10.267 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:23:10.300 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:23:10.388 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:23:10.404 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:23:10.404 +05:00 [INF] Email verification procedure
+2020-12-29 10:23:14.732 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:23:14.774 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:23:21.359 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:23:21.423 +05:00 [INF] Disconnected
+2020-12-29 10:23:41.872 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:24:11.410 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:25:34.963 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:26:08.878 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:26:08.895 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:26:08.937 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:26:08.986 +05:00 [INF] Email verification procedure
+2020-12-29 10:26:08.986 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:26:13.416 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:26:15.343 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:26:16.016 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:26:16.093 +05:00 [INF] Disconnected
+2020-12-29 10:26:56.440 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:27:34.779 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:27:34.806 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:27:34.877 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:27:34.881 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:27:34.894 +05:00 [INF] Email verification procedure
+2020-12-29 10:27:39.114 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:27:41.006 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:27:41.898 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:27:42.451 +05:00 [INF] Disconnected
+2020-12-29 10:27:59.227 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:30:11.474 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:30:11.492 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:30:11.540 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:30:11.581 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:30:11.581 +05:00 [INF] Email verification procedure
+2020-12-29 10:30:15.626 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:30:18.776 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:30:19.295 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:30:19.365 +05:00 [INF] Disconnected
+2020-12-29 10:30:36.899 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:31:30.372 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:31:30.401 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:31:30.475 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:31:30.506 +05:00 [INF] Email verification procedure
+2020-12-29 10:31:30.506 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:31:34.719 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:31:35.639 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:31:36.177 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:31:36.241 +05:00 [INF] Disconnected
+2020-12-29 10:32:13.254 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:32:50.792 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:33:37.397 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:33:37.416 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:33:37.497 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:33:37.506 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:33:37.507 +05:00 [INF] Email verification procedure
+2020-12-29 10:33:44.270 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:34:12.636 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:34:15.269 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:34:15.340 +05:00 [INF] Disconnected
+2020-12-29 10:34:29.558 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:35:32.126 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:35:32.154 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:35:32.191 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:35:32.234 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:35:32.234 +05:00 [INF] Email verification procedure
+2020-12-29 10:35:35.804 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:35:35.843 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:35:36.480 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 10:35:36.556 +05:00 [INF] Disconnected
+2020-12-29 10:36:05.532 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:39:38.429 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:39:38.432 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:39:38.633 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 10:39:38.646 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 10:40:42.149 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 10:40:42.177 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 10:40:42.250 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 10:40:42.255 +05:00 [INF] Email Sender verification procedure
+2020-12-29 10:40:42.259 +05:00 [INF] Email verification procedure
+2020-12-29 10:40:46.287 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:40:48.132 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 10:40:51.339 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 29.12.2020 10:35:46 +05:00
+2020-12-29 10:40:51.359 +05:00 [INF] 1. core-attributes.png
+2020-12-29 10:40:51.548 +05:00 [INF] Recieved 1 emails with 1 attachments
+2020-12-29 10:40:51.627 +05:00 [INF] Disconnected
+2020-12-29 10:41:06.998 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 10:41:53.007 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:41:53.010 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 10:41:53.153 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 10:41:53.166 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 11:09:03.723 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:09:03.742 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:09:03.816 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:09:03.825 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:09:03.826 +05:00 [INF] Email verification procedure
+2020-12-29 11:09:08.127 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:09:08.168 +05:00 [INF] The last email recieved date is : 29.12.2020 10:35:46
+2020-12-29 11:09:08.823 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:09:08.900 +05:00 [INF] Disconnected
+2020-12-29 11:11:12.792 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:11:12.827 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:11:12.867 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:11:12.909 +05:00 [INF] Email verification procedure
+2020-12-29 11:11:12.909 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:11:18.641 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:11:18.692 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:11:21.654 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:11:22.151 +05:00 [INF] Disconnected
+2020-12-29 11:11:39.147 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:11:52.116 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 11:11:52.118 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 11:11:52.215 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 11:11:52.229 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 11:12:16.185 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:12:16.211 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:12:16.286 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:12:16.289 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:12:16.295 +05:00 [INF] Email verification procedure
+2020-12-29 11:12:20.536 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:12:21.359 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:12:21.921 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:12:21.991 +05:00 [INF] Disconnected
+2020-12-29 11:12:43.453 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:15:59.077 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:15:59.105 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:15:59.177 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:15:59.188 +05:00 [INF] Email verification procedure
+2020-12-29 11:15:59.196 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:16:03.211 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:16:04.282 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:16:05.069 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:16:05.145 +05:00 [INF] Disconnected
+2020-12-29 11:16:16.272 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:16:31.120 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:17:02.354 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:17:02.702 +05:00 [INF] Disconnected
+2020-12-29 11:17:15.046 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 11:17:15.048 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 11:17:15.166 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 11:17:15.179 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 11:21:39.971 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:21:39.987 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:21:40.061 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:21:40.070 +05:00 [INF] Email verification procedure
+2020-12-29 11:21:40.078 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:21:44.338 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:21:53.423 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:21:56.497 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:21:56.580 +05:00 [INF] Disconnected
+2020-12-29 11:22:10.818 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:22:10.838 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:22:11.231 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:22:11.305 +05:00 [INF] Disconnected
+2020-12-29 11:23:01.056 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 11:23:01.059 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 11:23:01.256 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 11:23:01.270 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 11:36:52.250 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:36:52.280 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:36:52.322 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:36:52.363 +05:00 [INF] Email verification procedure
+2020-12-29 11:36:52.364 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:36:57.212 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:36:57.257 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:36:58.286 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:36:58.446 +05:00 [INF] Disconnected
+2020-12-29 11:39:33.331 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:39:33.352 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:39:33.430 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:39:33.440 +05:00 [INF] Email verification procedure
+2020-12-29 11:39:33.447 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:39:37.011 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:39:37.050 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:39:39.507 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:39:39.586 +05:00 [INF] Disconnected
+2020-12-29 11:42:31.137 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 11:42:31.154 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 11:42:31.196 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 11:42:31.244 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:42:31.245 +05:00 [INF] Email verification procedure
+2020-12-29 11:42:34.794 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:42:34.840 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:42:35.576 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:42:35.644 +05:00 [INF] Disconnected
+2020-12-29 11:42:51.348 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:42:51.377 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:42:52.250 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:42:52.411 +05:00 [INF] Disconnected
+2020-12-29 11:44:22.949 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:44:22.964 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:44:23.308 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:44:23.409 +05:00 [INF] Disconnected
+2020-12-29 11:50:24.641 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:50:24.671 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:50:25.092 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:50:25.256 +05:00 [INF] Disconnected
+2020-12-29 11:51:41.524 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:51:41.573 +05:00 [INF] The last email recieved date is : 28.12.2020 12:23:12
+2020-12-29 11:51:43.531 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 29.12.2020 10:35:46 +05:00
+2020-12-29 11:51:43.550 +05:00 [INF] 1. core-attributes.png
+2020-12-29 11:51:44.583 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 28.12.2020 17:30:26 +05:00
+2020-12-29 11:51:44.586 +05:00 [INF] 1. core-attributes.png
+2020-12-29 11:51:46.086 +05:00 [INF] Recieved 2 emails with 2 attachments
+2020-12-29 11:51:46.248 +05:00 [INF] Disconnected
+2020-12-29 11:51:46.887 +05:00 [INF] test_test20@list.ru mail is sent.
+2020-12-29 11:51:47.040 +05:00 [INF] test_test20@list.ru mail is sent.
+2020-12-29 11:52:31.210 +05:00 [INF] Email verification procedure
+2020-12-29 11:52:31.250 +05:00 [INF] Email Sender verification procedure
+2020-12-29 11:52:34.072 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 11:52:34.085 +05:00 [INF] The last email recieved date is : 29.12.2020 10:35:46
+2020-12-29 11:52:34.451 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 11:52:34.550 +05:00 [INF] Disconnected
+2020-12-29 12:38:06.950 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 12:38:06.970 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 12:38:07.053 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 12:38:07.056 +05:00 [INF] Email Sender verification procedure
+2020-12-29 12:38:07.062 +05:00 [INF] Email verification procedure
+2020-12-29 12:38:10.799 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:38:10.835 +05:00 [INF] The last email recieved date is : 29.12.2020 10:35:46
+2020-12-29 12:38:11.816 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 12:38:11.957 +05:00 [INF] Disconnected
+2020-12-29 12:38:30.638 +05:00 [INF] test_test20@list.ru mail is sent.
+2020-12-29 12:38:30.753 +05:00 [INF] test_test20@list.ru is Synchronized and Saved to database.
+2020-12-29 12:38:30.891 +05:00 [INF] test_test20@list.ru mail is sent.
+2020-12-29 12:38:30.942 +05:00 [INF] test_test20@list.ru is Synchronized and Saved to database.
+2020-12-29 12:38:31.980 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:38:31.988 +05:00 [INF] The last email recieved date is : 29.12.2020 10:35:46
+2020-12-29 12:38:32.613 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 12:38:32.693 +05:00 [INF] Disconnected
+2020-12-29 12:41:03.868 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 12:41:03.888 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 12:41:03.928 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 12:41:03.970 +05:00 [INF] Email Sender verification procedure
+2020-12-29 12:41:03.970 +05:00 [INF] Email verification procedure
+2020-12-29 12:41:08.390 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:41:08.443 +05:00 [INF] The last email recieved date is : 25.12.2020 10:50:05
+2020-12-29 12:41:08.668 +05:00 [INF] Disconnected
+2020-12-29 12:42:00.166 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:42:00.206 +05:00 [INF] The last email recieved date is : 25.12.2020 10:50:05
+2020-12-29 12:42:01.026 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 29.12.2020 12:41:43 +05:00
+2020-12-29 12:42:01.046 +05:00 [INF] 1. Новый текстовый документ (2).txt
+2020-12-29 12:42:01.301 +05:00 [INF] Recieved 1 emails with 1 attachments
+2020-12-29 12:42:01.446 +05:00 [INF] Disconnected
+2020-12-29 12:42:02.387 +05:00 [INF] test_test20@list.ru mail is sent.
+2020-12-29 12:42:02.425 +05:00 [INF] test_test20@list.ru is Synchronized and Saved to database.
+2020-12-29 12:43:35.951 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:43:35.965 +05:00 [INF] The last email recieved date is : 25.12.2020 10:50:05
+2020-12-29 12:43:36.877 +05:00 [INF] Recieved email from abbas_tm@mail.ru with 1 attachments at : 29.12.2020 12:41:43 +05:00
+2020-12-29 12:43:36.879 +05:00 [INF] 1. Новый текстовый документ (2).txt
+2020-12-29 12:43:37.152 +05:00 [INF] Recieved 1 emails with 1 attachments
+2020-12-29 12:43:37.292 +05:00 [INF] Disconnected
+2020-12-29 12:43:37.719 +05:00 [INF] test_test20@list.ru mail is sent.
+2020-12-29 12:43:37.798 +05:00 [INF] test_test20@list.ru is Synchronized and Saved to database.
+2020-12-29 12:44:20.955 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:44:20.971 +05:00 [INF] The last email recieved date is : 29.12.2020 12:41:43
+2020-12-29 12:44:21.368 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 12:44:21.551 +05:00 [INF] Disconnected
+2020-12-29 12:44:47.726 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 12:44:47.729 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 12:44:47.808 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 12:44:47.821 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 12:58:36.088 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 12:58:36.107 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 12:58:36.156 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 12:58:36.199 +05:00 [INF] Email Sender verification procedure
+2020-12-29 12:58:36.213 +05:00 [INF] Email verification procedure
+2020-12-29 12:58:39.855 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:58:39.898 +05:00 [INF] The last email recieved date is : 29.12.2020 12:41:43
+2020-12-29 12:58:40.551 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 12:58:40.629 +05:00 [INF] Disconnected
+2020-12-29 12:58:47.550 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 12:58:47.552 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 12:58:47.684 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 12:58:47.707 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/
+2020-12-29 12:59:09.129 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 12:59:09.165 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 12:59:09.238 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 12:59:09.251 +05:00 [INF] Email Sender verification procedure
+2020-12-29 12:59:09.259 +05:00 [INF] Email verification procedure
+2020-12-29 12:59:13.440 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 12:59:13.483 +05:00 [INF] The last email recieved date is : 29.12.2020 12:41:43
+2020-12-29 12:59:14.139 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 12:59:14.277 +05:00 [INF] Disconnected
+2020-12-29 14:12:54.551 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 14:12:54.570 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 14:12:54.643 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 14:12:54.645 +05:00 [INF] Email Sender verification procedure
+2020-12-29 14:12:54.653 +05:00 [INF] Email verification procedure
+2020-12-29 14:13:03.098 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 14:13:03.137 +05:00 [INF] The last email recieved date is : 29.12.2020 12:41:43
+2020-12-29 14:13:07.041 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 14:13:07.564 +05:00 [INF] Disconnected
+2020-12-29 14:36:13.729 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 14:36:13.758 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 14:36:13.832 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 14:36:13.842 +05:00 [INF] Email Sender verification procedure
+2020-12-29 14:36:13.842 +05:00 [INF] Email verification procedure
+2020-12-29 14:36:15.555 +05:00 [WRN] StartAsync called, but the bus was already started: "rabbitmq://192.168.4.188/DESKTOPVRFGHS7_EmailGetService_bus_eedyyyyr7oyx9ec5bdckzzjqgd?temporary=true" (Already Started)
+2020-12-29 14:36:19.051 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 14:36:19.090 +05:00 [INF] The last email recieved date is : 29.12.2020 12:41:43
+2020-12-29 14:36:19.885 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 14:36:20.228 +05:00 [INF] Disconnected
+2020-12-29 14:37:36.695 +05:00 [INF] Email Check Timed Hosted Service is running.
+2020-12-29 14:37:36.722 +05:00 [INF] Connect: Admin@192.168.4.188:5672/
+2020-12-29 14:37:36.802 +05:00 [INF] Email Sender Timed Hosted Service is running.
+2020-12-29 14:37:36.810 +05:00 [INF] Email Sender verification procedure
+2020-12-29 14:37:36.811 +05:00 [INF] Email verification procedure
+2020-12-29 14:37:42.017 +05:00 [INF] test_test20@list.ru connection was successful
+2020-12-29 14:37:42.055 +05:00 [INF] The last email recieved date is : 29.12.2020 12:41:43
+2020-12-29 14:37:43.098 +05:00 [INF] Recieved 0 emails with 0 attachments
+2020-12-29 14:37:43.259 +05:00 [INF] Disconnected
+2020-12-29 14:37:50.883 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 14:37:50.885 +05:00 [INF] Timed Hosted Service is stopping.
+2020-12-29 14:37:50.928 +05:00 [INF] Disconnect: Admin@192.168.4.188:5672/
+2020-12-29 14:37:50.941 +05:00 [INF] Disconnected: Admin@192.168.4.188:5672/

@@ -1,0 +1,32 @@
+{
+	"Serilog": {
+		"Using": [ "Serilog.Sinks.Console", "Serilog.Sinks.Http" ],
+		"MinimumLevel": {
+			"Default": "Information",
+			"Override": {
+				"Microsoft": "Warning",
+				"System": "Warning"
+			}
+		},
+		"Enrich": [ "FromLogContext", "WithMachineName" ],
+		"WriteTo": [
+			{ "Name": "Console" },
+			{
+				"Name": "Async",
+				"Args": {
+					"configure": [
+						{
+							"Name": "Http",
+							"Args": {
+								"requestUri": "http://logstash:8080"
+							}
+						}
+					]
+				}
+			}
+		],
+		"Properties": {
+			"Application": "Netije"
+		}
+	}
+}
